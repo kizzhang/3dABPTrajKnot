@@ -15,4 +15,5 @@
 **myparam.h** is a header file that contains all necessary parameter for running simulation. For example, Nstep is the number of simulation trials; NB is the number of walk steps.
 
 **read_traj.py** is a python code that helps to visualize the trajectory in the spherical confinement. Remember to change the path to the trajectory when used. 
+![alt text](test_run.jpg)
 
